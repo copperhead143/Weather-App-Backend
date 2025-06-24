@@ -5,10 +5,12 @@ name = "pypi"
 
 [packages]
 django = "*"
-django-cors-headers = "*"
 djangorestframework = "*"
 openmeteo-requests = "*"
 requests = "*"
+tzdata = "*"
+django-cors-headers = "*"
+gunicorn = "*"
 
 [dev-packages]
 
